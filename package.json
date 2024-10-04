@@ -1,0 +1,12 @@
+{
+  "name": "js-toolbox-mk",
+  "version": "1.0.0",
+  "description": "Utilities library for JS ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mkgabri18",
+  "license": "ISC"
+}
